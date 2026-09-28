@@ -1,0 +1,11 @@
+/*
+!/.gitignore
+!/README.md
+!/Del1/
+
+
+/Del1/target/
+/Del1/bin/
+**/*.class
+**/.DS_Store
+**/Thumbs.db
